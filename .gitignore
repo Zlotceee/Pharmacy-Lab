@@ -1,0 +1,4 @@
+pharmcy.db
+.env
+.venv/
+_pycache_/
